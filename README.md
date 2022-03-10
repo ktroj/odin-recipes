@@ -1,2 +1,2 @@
 # odin-recipes
-part of Odin Project
+[training] part of Odin Project
